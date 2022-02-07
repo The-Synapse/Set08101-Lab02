@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>SET08101 - Clickable Image</title>
+	</head>
+	<body>
+	<h1>Clickable Image</h1>
+	<p>Click the image to take yourself to a diffrent website.</p>
+	<a href="https://www.youtube.com/watch?v=xYMXAKHQ2NY">
+	<img src="Lab02 - Heading Images - Week 3/scotsman-refurbished-2011.jpg"/>
+	<a/>
+	</body>
+</html>
